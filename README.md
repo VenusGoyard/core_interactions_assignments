@@ -3,8 +3,8 @@ my core interactions assignments
 
 
 
-[My Recipe](http://VenusGoyard.github.io)
+[My Recipe](https://venusgoyard.github.io/core_interactions_assignments/recipe/)
 
 
-[My Poems](https://github.com/VenusGoyard/core_interactions_assignments/tree/main/poem)
+[My Poems](https://venusgoyard.github.io/core_interactions_assignments/poem/)
 
