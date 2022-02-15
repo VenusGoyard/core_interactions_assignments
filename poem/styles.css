@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: serif;
+  font-family: sans-serif;
+  /* font-family: monospace; */
+  font-size: 100%;
+  /* background-color: honeydew; */
+  background-color: lightblue ;
+}
+
+main {
+  margin: auto;
+  margin-top: 6em;
+  margin-bottom: 6em;
+  max-width: 800px;
+}
+
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #fff;
+  background-image: linear-gradient(to right, #fff, #999, #fff);
+  margin-top: 6em;
+  margin-bottom: 6em;
+}
+
+div.poem {
+  margin-bottom: 2em;
+  margin-top: 3em
+}
+
+div#one {
+  text-align: center;
+  font-family: 'Gideon Roman';
+  font-size: 120%;
+  line-height: 1.8em;
+}
+
+div#two {
+  text-align: center;
+  font-family: 'Gideon Roman', serif;
+  font-size: 120%;
+  line-height: 1.8em;
+}
+
+div#two p {
+  margin-bottom: 3em;
+  margin-top: 3em;
+}
+
+div#three {
+  text-align: center;
+  font-family: 'Gideon Roman', serif;
+  font-size: 120%;
+  line-height: 1.8em;
+}
+
+div#three p {
+  margin-bottom: 3em;
+  margin-top: 3em;
+}
+
+h1 {
+  font-size: 4em;
+  font-weight: 100;
+  margin-bottom: 1em;
+}
+
+h3.attribution {
+  font-family: 'Bebas Neue', serif;
+  font-weight: 200;
+  font-style: italic;
+}
