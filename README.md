@@ -8,4 +8,4 @@ my core interactions assignments
 
 [My Poems](https://venusgoyard.github.io/core_interactions_assignments/poem/)
 
-[Flexbox Assignment](https://venusgoyard.github.io/core_interactions_assignments/flexbox_stuff/)
+[Flexbox Assignment](https://venusgoyard.github.io/core_interactions_assignments/flexbox/)
