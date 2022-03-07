@@ -9,3 +9,5 @@ my core interactions assignments
 [My Poems](https://venusgoyard.github.io/core_interactions_assignments/poem/)
 
 [Flexbox Assignment](https://venusgoyard.github.io/core_interactions_assignments/flexbox/)
+
+[Adventure Assignment](https://venusgoyard.github.io/core_interactions_assignments/adventure)
