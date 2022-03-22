@@ -11,3 +11,5 @@ my core interactions assignments
 [Flexbox Assignment](https://venusgoyard.github.io/core_interactions_assignments/flexbox/)
 
 [Adventure Assignment](https://venusgoyard.github.io/core_interactions_assignments/adventure)
+
+[Animationt](https://venusgoyard.github.io/core_interactions_assignments/animation)
