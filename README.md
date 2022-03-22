@@ -12,4 +12,4 @@ my core interactions assignments
 
 [Adventure Assignment](https://venusgoyard.github.io/core_interactions_assignments/adventure)
 
-[Animationt](https://venusgoyard.github.io/core_interactions_assignments/animation)
+[Animation](https://venusgoyard.github.io/core_interactions_assignments/animation)
