@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css?family=Libre+Franklin:600");
+
+
+.thumbnail {
+    align-items: flex-start;
+    background-color: 
+  #2156f2;
+    display: flex;
+    overflow: hidden;
+    padding: 0 19px;
+    width: 2160px;
+  }
+
+.hidden {
+    pointer-events: none;
+    visibility: hidden;
+  }
+  
+.overlap-group1 {
+    height: 1080px;
+    margin-top: 22px;
+    position: relative;
+    width: 2056px;
+  }
+  
+.overlap-group {
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2056px;
+  }
+  
+.surname {
+  left: 1228px;
+  letter-spacing: -0.72px;
+  line-height: 10px;
+  position: absolute;
+  text-align: right;
+  top: 866px;
+}
+
+.navbar{
+  left: 0;
+  letter-spacing: -0.72px;
+  line-height: 10px;
+  position: absolute;
+  top: 5px;
+  width: 2056px;
+}
+
+.rectangle-1 {
+    height: 217px;
+    left: 1028px;
+    position: absolute;
+    top: 771px;
+    width: 565px;
+  }
+
+.polygon-1 {
+    height: 94px;
+    left: 116px;
+    position: absolute;
+    top: 437px;
+    width: 80px;
+  }
+
+  .polygon-2 {
+    height: 94px;
+    left: 1861px;
+    position: absolute;
+    top: 438px;
+    width: 80px;
+  }
+
+  .image1 {
+    height: 1080px;
+    left: 671px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 491px;
+  }
