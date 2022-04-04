@@ -13,3 +13,5 @@ my core interactions assignments
 [Adventure Assignment](https://venusgoyard.github.io/core_interactions_assignments/adventure)
 
 [Animation](https://venusgoyard.github.io/core_interactions_assignments/animation)
+
+[Javascript](https://venusgoyard.github.io/core_interactions_assignments/javascript)
