@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "filename": "the_cyclops.jpeg",
+        "title": "The Cyclops"
+    },
+    {
+        "id": "2",
+        "filename": "flower_clouds.jpeg",
+        "title": "Flower Clouds"
+    },
+    {
+        "id": "3",
+        "filename": "evocation_of_butterflies.jpeg",
+        "title": "Evocation of Butterflies"
+    },
+    {
+        "id": "4",
+        "filename": "greenvase.jpeg",
+        "title": "Green Vase"
+    },
+    {
+        "id": "5",
+        "filename": "haunting.jpeg",
+        "title": "Haunting"
+    },
+    {
+        "id": "6",
+        "filename": "apollo.jpeg",
+        "title": "Apollo"
+    }
+]
+

@@ -1,0 +1,20 @@
+body {
+    margin: auto;
+    background-color:  #DAF7A6;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.caption{
+    font-family: 'Copperplate';
+    font-size: 22px;
+    color:  #d35400 
+}
+
+.galleryphoto {
+    float: left;
+    max-width:17vw;
+    max-height:30vw;
+    padding-left: 5px;
+    padding-right: 5px;   
+}
