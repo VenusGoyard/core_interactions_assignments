@@ -1,5 +1,5 @@
 # core_interactions_assignments
-my core interactions assignments
+My WebDev assignments using javascript, HTML and CSS.
 
 
 
